@@ -1,0 +1,49 @@
+body
+	{
+	background-color:lightgreen;
+	}
+table,tr,th,td{
+	border:3px solid black;
+	border-collapse:collapse;
+	
+}
+h1{text-align:center;}
+.a{text-align:left;}
+.b{text-align:right;}
+.c{text-align:center;}
+.d{text-align:justify;}
+
+.e{text-align-last:left;}
+.f{text-align-last:right;}
+.g{text-align-last:center;}
+.h{text-align-last:justify;}
+h2{text-align:center;}
+.rtl{background-color:yellow;border:2px dotted black;}
+	p{direction:rtl;unicode-bidi:bidi-override}
+.i{vertical-align:baseline;font-size:10px;}
+.j{vertical-align:text-top;font-size:10px;}
+.k{vertical-align:text-bottom;font-size:10px;}
+.l{vertical-align:sub;font-size:10px;}
+.m{vertical-align:super;font-size:10px;}
+
+.n{text-decoration:overline red double 1px}
+.o{text-decoration:line-through blue solid 2px}
+.p{text-decoration:underline red dashed 2px}
+.q{text-decoration:overline underline blue solid 1px}
+
+.r{text-transform:uppercase;}
+.s{text-transform:lowercase;}
+.t{text-transform:capitalize;}
+
+.u{text-indent:25px;}
+.v{letter-spacing:5px}
+.w{line-height:25px;}
+.x{word-spacing:10px}
+.y{white-space:nowrap;}
+
+.z{text-shadow:4px 4px blue}
+.aa{text-shadow:4px 4px 2px blue}
+
+
+
+
